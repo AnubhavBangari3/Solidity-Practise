@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity 2023 Udemy Course/first.sol": "WelcomeToSolidity"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity 2023 Udemy Course/first.sol": {
+			"keccak256": "0x9166f6323ea9d44795fc52e203180763acbdb2c27a21dd889889a3c861394fa0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fe84dd08ec3d7d0092c01b880b483f2664322883bc223ff5678e629ab242cac4",
+				"dweb:/ipfs/QmWRGyAJDP5TZnDtKYH1m3HQGWLArNq7bFnyiH94FnqA3j"
+			]
+		}
+	},
+	"version": 1
+}

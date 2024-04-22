@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "airDrop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "validateCond",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity 2023 Udemy Course/Decison.sol": "DecisionMaking"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity 2023 Udemy Course/Decison.sol": {
+			"keccak256": "0xba2597b312df087294b19d18c82a27fa0f7e6b92f404c0c145692df8dcf50be9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b8f94cdc89a5f9c0650bd97c351c134223d1da46553843b5a49a51bc7a906757",
+				"dweb:/ipfs/QmbbDR4z9PUier9dvQoJrrFQmT3nMwkmEnQ3eppPddXN8V"
+			]
+		}
+	},
+	"version": 1
+}

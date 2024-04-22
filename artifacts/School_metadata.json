@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "schoolInstructor",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "addr",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity 2023 Udemy Course/structPrac.sol": "School"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity 2023 Udemy Course/structPrac.sol": {
+			"keccak256": "0xbc1efd6fbbadb88e235a1b841b911a10cc750a643edb4d2b350fcf115b1e2c60",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b0f86c802ee320a46ac5737d1d1eb714f654ad413b0c91826f5cc40e5084fbcc",
+				"dweb:/ipfs/QmfYbganih75gPZVHs9VeySC3vFQYsJhfadDa7W42STq3q"
+			]
+		}
+	},
+	"version": 1
+}

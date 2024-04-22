@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "bid",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "bids",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity 2023 Udemy Course/MappingPrac.sol": "Auction"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity 2023 Udemy Course/MappingPrac.sol": {
+			"keccak256": "0xe3ab68ccee54978127c14fc6e19cbe05eed30d8b86d619d52e35499ee5e8e4c5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e1203845ccfdf565a7be276ac143fe7d0fc4b6a9bf09f28907d6d85eee5d7c34",
+				"dweb:/ipfs/QmcdfbgGhGC8Hs6fwgLueEmCGhU3d9Kdw7rNRPbtPaFoYA"
+			]
+		}
+	},
+	"version": 1
+}
